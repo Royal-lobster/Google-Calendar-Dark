@@ -8,36 +8,50 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 ## For Windows :
-1. **Clone this repo (or you can download the zip of this repo) :**
-```
-$ git clone https://github.com/Royal-lobster/googlecalenderdark-Electronjs.git
-```
-2. **To run the application :**
-Go inside the googlecalenderdark-Electronjs folder you just cloned or downloded, Go inside the GoogleCalender-win32-x64 folder and double click on the GoogleCalendar.exe
+1. **Download the ZIP file :**
+    <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/GoogleCalender-win32-x64.zip"> Download Zip file for Windows</a>
+2. **Unzip the file and move it to programfiles folder :**
+    you can store the folder in the program files folder in windows so you don't delete it by mistake 😝
+3. **To run the application :**
+    To run the Application unzip the file and double click on the GoogleCalendar.exe inside the file you unziped. 
 
 <p align="center">
 <img src = "./Resources/runinstructions-windows.jpg" width="500px">
 </p>
 
-## For Linux :
-1. **Clone this repo :**
-```
-$ git clone https://github.com/Royal-lobster/googlecalenderdark-Electronjs.git
-$ cd googlecalenderdark-Electronjs
-```
-2. **Go to linux app folder:**
-```
-$ cd GoogleCalendar-linux-x64
-```
-3. **run the application :**
-```
-$ ./GoogleCalendar
-```
-* you can remove the windows and mac folders once the repo is cloned.
-* you can add the app to dock and launcher by using mainmenu app which you can download from your software center.
+4. **(Optional) Pin the application to the taskbar :**
+    Pin the app to taskbar so that you can access the calendar easily !
+    
+## For Linux (all distributions):
+1. **Download the ZIP file :**
+    <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/GoogleCalendar-linux-x64.zip"> Download Zip file for Linux</a>
+
+2. **Unzip the file:**
+    left click on the zip file you downloaded and click on unzip. Once you unziped the folder, keep it someplace where you don't delete it by mistake since this folder is required to run the application 😅. If you are a linux nerd you can place the folder in *opt folder* or you can place it in your home folder itself.
+
+3. **Make the app executable**
+    Go the the folder you unziped and right click on it and select open in terminal. Copy paste the folowing command inside terminal to make the app executable
+    ```
+    sudo chmod +x *
+    ```
+
+4. **Run the application**
+    ```
+    $ ./GoogleCalendar
+    ```
+    **Note:** You can open the application only by the terminal. you cannot double click GoogleCalendar app to make it run. So i suggest you to do next step.
+
+5. **Add the app to launcher and dock :**
+    You can add the app to dock and launcher by using **main menu** app which you can download from your software center, or you can look this beautiful article                                on how to add shortcuts to the linux launcher : https://www.addictivetips.com/ubuntu-linux-tips/create-application-menu-shortcuts-linux/
 
 ## For Mac os :
-<a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Google%20Calender-mac-x64/Google%20Calender.app/Contents/MacOS/Google%20Calender"> Download osx file for Mac OS</a>
+1. **Download the ZIP file :**
+    <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/Google%20Calender-mac-x64.zip"> Download Zip file for Linux</a>
+2. **Unzip the file :**
+    Unzip the file you downloaded.
+3. **run the app :**
+    double click on the executable app inside the folder you unziped.
+
 ### License :
 ```
 Copyright 2020 Srujan Gurram
