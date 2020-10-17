@@ -45,4 +45,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+> :information_source: You can customize the CSS file at (resources < app < inject < inject.css)
+
 **Credits** : thanks for **@cardi** for CSS file : https://github.com/cardi/google-calendar-minimal-dark
