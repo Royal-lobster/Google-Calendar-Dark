@@ -15,9 +15,9 @@ $ git clone https://github.com/Royal-lobster/googlecalenderdark-Electronjs.git
 2. **To run the application :**
 Go inside the googlecalenderdark-Electronjs folder you just cloned or downloded, Go inside the GoogleCalender-win32-x64 folder and double click on the GoogleCalendar.exe
 
-<center>
+<p align="center">
 <img src = "./Resources/runinstructions-windows.jpg" width="500px">
-</center>
+</p>
 
 ## For Linux :
 1. **Clone this repo :**
