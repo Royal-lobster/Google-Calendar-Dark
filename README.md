@@ -26,6 +26,6 @@ $ ./GoogleCalendar
 * you can add the app to dock and launcher by using mainmenu app which you can download from your software center.
 
 ## For Mac os :
-<a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Google%20Calender-mac-x64/Google%20Calender.app/Contents/MacOS/Google%20Calender"> Download osx file for Mac os</a>
+<a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Google%20Calender-mac-x64/Google%20Calender.app/Contents/MacOS/Google%20Calender"> Download osx file for Mac OS</a>
 
 **Credits** : thanks for **@cardi** for CSS file : https://github.com/cardi/google-calendar-minimal-dark
