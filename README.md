@@ -1,4 +1,4 @@
-# Google Calender Dark 🔥🔥🔥
+# Google Calender Dark for Linux, Mac and Windows 🔥🔥🔥
 <center>
 <img src = "./Resources/google-calender.png">
 </center>
