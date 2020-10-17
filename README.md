@@ -25,32 +25,30 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 ## For Linux (all distributions):
 1. **Download the ZIP file :**
     <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/GoogleCalendar-linux-x64.zip"> Download Zip file for Linux</a>
-
 2. **Unzip the file:**
     left click on the zip file you downloaded and click on unzip. Once you unziped the folder, keep it someplace where you don't delete it by mistake since this folder is required to run the application 😅. If you are a linux nerd you can place the folder in *opt folder* or you can place it in your home folder itself.
-
 3. **Make the app executable**
     Go the the folder you unziped and right click on it and select open in terminal. Copy paste the folowing command inside terminal to make the app executable
     ```
     sudo chmod +x *
     ```
-
 4. **Run the application**
     ```
     $ ./GoogleCalendar
     ```
     **Note:** You can open the application only by the terminal. you cannot double click GoogleCalendar app to make it run. So i suggest you to do next step.
-
 5. **Add the app to launcher and dock :**
     You can add the app to dock and launcher by using **main menu** app which you can download from your software center, or you can look this beautiful article                                on how to add shortcuts to the linux launcher : https://www.addictivetips.com/ubuntu-linux-tips/create-application-menu-shortcuts-linux/
 
 ## For Mac os :
 1. **Download the ZIP file :**
     <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/Google%20Calender-mac-x64.zip"> Download Zip file for Mac</a>
-2. **Unzip the file :**
-    Unzip the file you downloaded.
-3. **run the app :**
-    double click on the executable app inside the folder you unziped.
+2. **Unzip the folder :**
+    Unzip the file you downloaded and place the folder someplace where you don't delete the folder by mistake.
+3. **Run the app :**
+    double click on the **Google calendar.app** inside the folder you unziped.
+4. **Pin the app to dock :**
+    Pin the Google calendar.app to your dock so that you can access your calendar easily !
 
 ### License :
 ```
