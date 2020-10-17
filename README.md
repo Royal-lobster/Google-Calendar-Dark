@@ -8,8 +8,15 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 ## For Windows :
-<a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs-/raw/master/Google%20Calender-win32-x64/Google%20Calender.exe"> Download .exe file for Windows</a>
-
+1. Clone this repo (or you can download the zip of this repo) :
+```
+$ git clone https://github.com/Royal-lobster/googlecalenderdark-Electronjs.git
+```
+2. To run the application :
+Go inside the googlecalenderdark-Electronjs folder you just cloned or downloded, Go inside the GoogleCalender-win32-x64 folder and double click on the GoogleCalendar.exe
+<center>
+<img src = "./Resources/runinstructions-windows.jpg">
+</center>
 ## For Linux :
 1. Clone this repo :
 ```
