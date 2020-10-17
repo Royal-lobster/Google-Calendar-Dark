@@ -1,4 +1,4 @@
-# Google Calender Dark for Linux, Mac and Windows 🔥🔥🔥
+# 🔥 Google Calender Dark for Linux, Mac and Windows 🔥
 This app is a electron wraper for Google Calender (https://calendar.google.com/).
 
 <center>
