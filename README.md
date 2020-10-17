@@ -46,7 +46,7 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 2. **Unzip the folder :**
     Unzip the file you downloaded and place the folder someplace where you don't delete the folder by mistake.
 3. **Run the app :**
-    double click on the **Google calendar.app** inside the folder you unziped.
+    double click on the **Google calendar.app** inside the folder you unziped to run the app.
 4. **Pin the app to dock :**
     Pin the Google calendar.app to your dock so that you can access your calendar easily !
 
