@@ -46,7 +46,7 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 
 ## For Mac os :
 1. **Download the ZIP file :**
-    <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/Google%20Calender-mac-x64.zip"> Download Zip file for Linux</a>
+    <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/Google%20Calender-mac-x64.zip"> Download Zip file for Mac</a>
 2. **Unzip the file :**
     Unzip the file you downloaded.
 3. **run the app :**
