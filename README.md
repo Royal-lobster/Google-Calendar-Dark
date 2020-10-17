@@ -50,7 +50,7 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 4. **Pin the app to dock :**
     Pin the Google calendar.app to your dock so that you can access your calendar easily !
 
-> :information_source: If the app doesnot open or the dark theme does not work please submit an issue so that i can fix it. Google keeps updating google calendar constantly so the dark mode can break. if you submit and issue i can fix the dark mode as soon as possible. 
+> :information_source: If the app doesnot open or the dark theme does not work please submit an issue. Google keeps updating Google calendar constantly so the dark mode can break. if you submit and issue i can fix the dark mode as soon as possible. 
 
 ### License :
 ```
