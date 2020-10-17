@@ -47,4 +47,4 @@ limitations under the License.
 ```
 > :information_source: You can customize the CSS file at (resources < app < inject < inject.css)
 
-**Credits** : thanks **@cardi** for CSS file : https://github.com/cardi/google-calendar-minimal-dark
+**Credits** : Thanks **@cardi** for CSS file : https://github.com/cardi/google-calendar-minimal-dark
