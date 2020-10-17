@@ -1,3 +1,4 @@
 Google[[:space:]]Calender-mac-x64/Google[[:space:]]Calender.app/Contents/Frameworks/Electron[[:space:]]Framework.framework/Versions/A/Electron[[:space:]]Framework filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 GoogleCalendar-linux-x64/GoogleCalendar filter=lfs diff=lfs merge=lfs -text
