@@ -11,7 +11,7 @@ This app is a electron wraper for Google Calender (https://calendar.google.com/)
 1. **Download the ZIP file :**
     <a href="https://github.com/Royal-lobster/googlecalenderdark-Electronjs/raw/master/Compressed/GoogleCalender-win32-x64.zip"> Download Zip file for Windows</a>
 2. **Unzip the file and move it to programfiles folder :**
-    you can store the folder in the program files folder in windows so you don't delete it by mistake 😝
+    you can store the folder in the program files folder in windows so you don't delete it by mistake 
 3. **To run the application :**
     To run the Application unzip the file and double click on the GoogleCalendar.exe inside the file you unziped. 
 
